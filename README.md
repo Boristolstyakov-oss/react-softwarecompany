@@ -1,6 +1,9 @@
 # Software Company Website
 
-![Software Company Website Template](https://image.ibb.co/iNmWDA/website-software-company.jpg)
+<img src="/public/screenshots/1.png" alt="image" />
+<img src="/public/screenshots/2.png" alt="image" />
+<img src="/public/screenshots/3.png" alt="image" />
+
 
 * Team Members
    * Avonlea Haymart
